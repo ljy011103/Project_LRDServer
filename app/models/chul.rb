@@ -1,0 +1,3 @@
+class Chul < ApplicationRecord
+
+end
